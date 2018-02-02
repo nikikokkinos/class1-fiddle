@@ -1,0 +1,25 @@
+body {
+  font-family: geneva;
+  font: bold;
+}
+
+#header {
+  background: darkmagenta;
+  text-align: center;
+  font-size: 25px;
+  color: peachpuff;
+  border-radius: 10px;
+}
+
+#OctopusPicture {
+  height: 250px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+}
+.Recipesbutton {
+ padding: 6px;
+ font-size: 10px;
+ color: slategrey;
+}
