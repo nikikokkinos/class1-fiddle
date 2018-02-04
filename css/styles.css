@@ -1,34 +1,56 @@
-body {
-  font-family: geneva;
-  font: bold;
+header {
+text-align: center;
+background: url("https://c2.staticflickr.com/4/3903/15056406677_03a39d510e_b.jpg");
+background-repeat: no-repeat;
+font-family: monospace;
 }
 
-#pie {
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  margin-top: -50px;
-  margin-left: -150px;
-  opacity: .00;
- }
- 
-#header {
-  background: darkmagenta;
-  text-align: center;
-  font-size: 25px;
-  color: peachpuff;
-  border-radius: 10px;
+h1 {
+text-align: left;
+padding: 0px 20px 10px 20px;
+margin-top: 0px;
+font-size: 50px;
+color: white;
+line-height: .5px;
 }
 
-#OctopusPicture {
-  height: 250px;
-  width: 250px;
-  border-radius: 10px;
+h2 {
+padding: 10px 20px 0px 20px;
+line-height: .5px;
+text-align: left;
+color: white;
 }
 
+#map {
+opacity: 0.0;
+height: 300px;
+
 }
-.Recipesbutton {
- padding: 6px;
- font-size: 10px;
- color: slategrey;
+ul {
+padding:15px;
+background: black;
+font-size: 20px;
 }
+
+li {
+display: inline;
+padding: 0px 10px 0px 10px;
+color: white;
+}
+
+a {
+color: white;
+}
+
+@media (max-width: 500px) {
+    h1 {font-size: 20px;}
+    li {display: block;
+        padding: 5px;}
+
+  article {
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+
+</style>
+</head>
