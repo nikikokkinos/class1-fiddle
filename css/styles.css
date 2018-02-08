@@ -2,7 +2,7 @@ header {
 text-align: center;
 background: url("https://c2.staticflickr.com/4/3903/15056406677_03a39d510e_b.jpg");
 background-repeat: no-repeat;
-background-size: cover; 
+background-size: cover;
 font-family: monospace;
 }
 
@@ -49,7 +49,8 @@ div {
 }
 
 button {
-  background-color: slategrey;
+  background: url("https://therealdeal.com/wp-content/uploads/2012/11/tech-spread1.jpg");
+  opacity: 0;
   font-size: 14px;
   padding: 10px 5px 10px 5px;
 }

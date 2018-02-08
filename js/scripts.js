@@ -5,6 +5,6 @@
 <script>
 $(document).ready(function(){
     $("button").click(function(){
-      $(this).css("background-color", "#ffffff");
+      $(this).css("opacity", "0");
 });
 </script>
