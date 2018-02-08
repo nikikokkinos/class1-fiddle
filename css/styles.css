@@ -38,19 +38,8 @@ padding: 0px 10px 0px 10px;
 color: white;
 }
 
-a {
-color: white;
+small {
+  font-size: 14px;
 }
-
-@media (max-width: 500px) {
-    h1 {font-size: 20px;}
-    li {display: block;
-        padding: 5px;}
-
-  article {
-    max-width: 500px;
-    padding: 20px;
-    margin: 0 auto;
-
 </style>
 </head>
