@@ -3,5 +3,5 @@ $("button").click(function(){
 });
 
 $("button").click(function() {
-	$('.cardib').css('.cardib', "1");
+	$('.cardib').css("opacity", "1");
 });

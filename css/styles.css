@@ -49,9 +49,9 @@ div {
 }
 
 button {
-  background: slategray;
+  background: #47182d;
   border-radius: 5px;
-  opacity: 1;
+  opacity: .5;
   font-size: 30px;
   padding: 10px 5px 10px 5px;
   position: relative;
