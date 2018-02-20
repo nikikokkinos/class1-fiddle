@@ -49,11 +49,13 @@ div {
 }
 
 button {
-  background: url("https://therealdeal.com/wp-content/uploads/2012/11/tech-spread1.jpg");
-  opacity: 0;
+  background: slategray;
+  border-radius: 5px;
+  opacity: 1;
   font-size: 14px;
   padding: 10px 5px 10px 5px;
 }
 
-</style>
-</head>
+#Loser {
+  opacity: 0;
+}

@@ -1,10 +1,7 @@
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-</script>
-
-<script>
-$(document).ready(function(){
-    $("button").click(function(){
-      $(this).css("opacity", "0");
+$("button").click(function(){
+  $('button').css("opacity", "0");
 });
-</script>
+
+$("button").click(function(){
+  $('p').css("opacity", "1");
+});
