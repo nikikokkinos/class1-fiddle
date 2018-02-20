@@ -52,10 +52,12 @@ button {
   background: slategray;
   border-radius: 5px;
   opacity: 1;
-  font-size: 14px;
+  font-size: 30px;
   padding: 10px 5px 10px 5px;
+  position: relative;
+  left: 40%;
 }
 
-#Loser {
+.cardib {
   opacity: 0;
 }
